@@ -1,0 +1,1 @@
+ot.keyTap('c', [ 'command' ])  const data = await readClipboardContent()  console.log("复制的内容为" + 
