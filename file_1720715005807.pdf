@@ -1,0 +1,1 @@
+ckThenWait("Communities", 83, 240, 5, 7)  commonLib.moveMouse("页面中间", 574, 407)  for (var i = 0; i
