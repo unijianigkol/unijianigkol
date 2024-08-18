@@ -1,0 +1,1 @@
+247, 153, 10, 13)    const content = await commonLib.copyClipboard("复制电邮名字", 1038, 202, 1090, 202)
