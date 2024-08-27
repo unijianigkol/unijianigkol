@@ -1,0 +1,1 @@
+Name(), 5,7)  await commonLib.moveClickThenWait("点击Commit Changes", 1185, 241, 5, 7)  await commo
